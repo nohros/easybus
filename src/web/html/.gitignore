@@ -1,0 +1,9 @@
+# Node Packages
+node_modules/
+
+# Bower packages
+karma/
+vendor/
+
+# Build directories
+build/

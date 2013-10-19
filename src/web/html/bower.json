@@ -1,0 +1,12 @@
+{
+  "name": "easybus",
+  "version": "0.0.1",
+  "devDependencies": {
+    "angular": "~1.0.8",
+    "restangular": "~1.1.6",
+    "foundation": "~4.3.2",
+    "angular-ui-utils": "~0.0.4",
+    "angular-ui-router": "0.2.0"
+  },
+  "dependencies": {}
+}
